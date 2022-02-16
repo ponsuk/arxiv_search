@@ -2,15 +2,18 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        smart meter: 1
-        occupancy : 1
+        smart: 3
+        meter: 3
+        occupancy: 4
+        frailty : 5
 
-# 出力の閾値
-score_threshold: 0
+# 出力する論文数
+num_papers: 30
 
-# 何日前まで遡るか（例：max_date=365で直近1年分の検索）
-max_date: 30
+# 何日前まで遡るか（例：go_back_date=365で直近1年分の検索）
+go_back_date: 365
 #### 検索時間の目安
-#### 1日分の検索に10秒〜15秒くらい
-#### -> 1年分：5000秒前後（およそ83分）
-#### -> 1ヶ月分：400秒前後（およそ8分）
+#### 100日分の検索に10分〜15分くらい
+#### 365日分の検索に10分〜15分くらい
+
+
