@@ -2,18 +2,19 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        smart: 3
-        meter: 3
-        occupancy: 4
-        frailty : 5
+        carbon footprint: 5
+        scope3: 5
+        co2 emission: 4
+        secure computation: 4
+        homomorphic encryption: 4
+        database: 1
+
 
 # 出力する論文数
-num_papers: 30
+num_papers: 100
 
 # 何日前まで遡るか（例：go_back_date=365で直近1年分の検索）
 go_back_date: 365
 #### 検索時間の目安
 #### 100日分の検索に10分〜15分くらい
 #### 365日分の検索に10分〜15分くらい
-
-
