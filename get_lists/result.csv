@@ -1,0 +1,154 @@
+,title,published_date,url,journal_reference,score
+0,Verifiable Encodings for Secure Homomorphic Analytics,2022-07-28,http://arxiv.org/abs/2207.14071v1,,0.2775997153434003
+1,Homomorphically Encrypted Computation using Stochastic Encodings,2022-03-04,http://arxiv.org/abs/2203.02547v1,,0.27395510649777377
+2,"Counting Carbon: A Survey of Factors Influencing the Emissions of
+  Machine Learning",2023-02-16,http://arxiv.org/abs/2302.08476v1,,0.27024740951138654
+3,SoK: Fully Homomorphic Encryption Accelerators,2022-12-04,http://arxiv.org/abs/2212.01713v2,,0.2657481074426721
+4,"Near Real-time CO$_2$ Emissions Based on Carbon Satellite and Artificial
+  Intelligence",2022-10-11,http://arxiv.org/abs/2210.09850v2,,0.2636379683858147
+5,"Accelerating Fully Homomorphic Encryption by Bridging Modular and
+  Bit-Level Arithmetic",2022-04-26,http://arxiv.org/abs/2204.12201v4,,0.258780096723618
+6,"ARK: Fully Homomorphic Encryption Accelerator with Runtime Data
+  Generation and Inter-Operation Key Reuse",2022-05-02,http://arxiv.org/abs/2205.00922v3,,0.25819892635602926
+7,"Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language
+  Model",2022-11-03,http://arxiv.org/abs/2211.02001v1,,0.2575945154575289
+8,"Does Crypto Kill? Relationship between Electricity Consumption Carbon
+  Footprints and Bitcoin Transactions",2022-05-16,http://arxiv.org/abs/2206.03227v1,,0.25546881028257445
+9,Verifiable Fully Homomorphic Encryption,2023-01-17,http://arxiv.org/abs/2301.07041v2,,0.24989879347782468
+10,"Carbon Footprints on Inter-Domain Paths: Uncovering CO2 Tracks on Global
+  Networks",2022-11-01,http://arxiv.org/abs/2211.00347v1,,0.24831525505223523
+11,FHEBench: Benchmarking Fully Homomorphic Encryption Schemes,2022-03-01,http://arxiv.org/abs/2203.00728v1,,0.24653534917108513
+12,MemFHE: End-to-End Computing with Fully Homomorphic Encryption in Memory,2022-04-26,http://arxiv.org/abs/2204.12557v1,,0.24231772057663342
+13,CoVault: A Secure Analytics Platform,2022-08-07,http://arxiv.org/abs/2208.03784v2,,0.23996755279307996
+14,"Revealing the CO2 emission reduction of ridesplitting and its
+  determinants based on real-world data",2022-04-02,http://arxiv.org/abs/2204.00777v2,,0.23961918225293152
+15,Similarity Calculation Based on Homomorphic Encryption,2023-02-15,http://arxiv.org/abs/2302.07572v1,,0.23876306240774964
+16,Carbon Emission Prediction on the World Bank Dataset for Canada,2022-11-26,http://arxiv.org/abs/2211.17010v1,,0.23619017774059228
+17,HEFT: Homomorphically Encrypted Fusion of Biometric Templates,2022-08-15,http://arxiv.org/abs/2208.07241v1,,0.23435288891428468
+18,Measuring the Carbon Intensity of AI in Cloud Instances,2022-06-10,http://arxiv.org/abs/2206.05229v1,,0.23365726915641152
+19,"A hands-on gaze on HTTP/3 security through the lens of HTTP/2 and a
+  public dataset",2022-08-13,http://arxiv.org/abs/2208.06722v2,,0.23280380970498382
+20,"Privacy and correctness trade-offs for information-theoretically secure
+  quantum homomorphic encryption",2022-05-24,http://arxiv.org/abs/2205.12127v1,,0.23245263487180856
+21,"An Analysis of Energy Consumption and Carbon Footprints of
+  Cryptocurrencies and Possible Solutions",2022-02-20,http://arxiv.org/abs/2203.03717v1,,0.23179111440237496
+22,A Fully Homomorphic Encryption Scheme for Real-Time Safe Control,2022-09-28,http://arxiv.org/abs/2209.14207v1,,0.23166262154466463
+23,"HE-PEx: Efficient Machine Learning under Homomorphic Encryption using
+  Pruning, Permutation and Expansion",2022-07-07,http://arxiv.org/abs/2207.03384v1,,0.23114067602468066
+24,Using Geographic Load Shifting to Reduce Carbon Emissions,2022-03-02,http://arxiv.org/abs/2203.00826v1,,0.23090591066218602
+25,Computation with Large Advice,2023-02-12,http://arxiv.org/abs/2302.06012v1,,0.23088642429530248
+26,"Energy System Digitization in the Era of AI: A Three-Layered Approach
+  towards Carbon Neutrality",2022-11-02,http://arxiv.org/abs/2211.04584v1,,0.23067731702570735
+27,"HyPHEN: A Hybrid Packing Method and Optimizations for Homomorphic
+  Encryption-Based Neural Networks",2023-02-05,http://arxiv.org/abs/2302.02407v1,,0.22899812048126
+28,Confidential High-Performance Computing in the Public Cloud,2022-12-05,http://arxiv.org/abs/2212.02378v1,,0.2288996359856399
+29,Trustworthy Human Computation: A Survey,2022-10-22,http://arxiv.org/abs/2210.12324v1,,0.22889682544950676
+30,UN Handbook on Privacy-Preserving Computation Techniques,2023-01-15,http://arxiv.org/abs/2301.06167v1,,0.22809157515072248
+31,A Privacy Glossary for Cloud Computing,2022-06-13,http://arxiv.org/abs/2206.06457v2,,0.22697592027305122
+32,"FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic
+  Encryption",2022-07-25,http://arxiv.org/abs/2207.11872v1,,0.22663642372214537
+33,"A Garbled Circuit Accelerator for Arbitrary, Fast Privacy-Preserving
+  Computation",2022-11-23,http://arxiv.org/abs/2211.13324v1,,0.2265985699562321
+34,"BASALISC: Programmable Asynchronous Hardware Accelerator for BGV Fully
+  Homomorphic Encryption",2022-05-27,http://arxiv.org/abs/2205.14017v2,,0.2265437002486542
+35,"CHEM: Efficient Secure Aggregation with Cached Homomorphic Encryption in
+  Federated Machine Learning Systems",2022-12-22,http://arxiv.org/abs/2212.11475v1,,0.22549768108168103
+36,"A general framework for the composition of quantum homomorphic
+  encryption \& quantum error correction",2022-04-22,http://arxiv.org/abs/2204.10471v1,,0.2247892919543396
+37,The Turing Deception,2022-12-09,http://arxiv.org/abs/2212.06721v2,,0.22472134517591213
+38,"Accelerating Polynomial Multiplication for Homomorphic Encryption on
+  GPUs",2022-09-02,http://arxiv.org/abs/2209.01290v1,,0.2245621326334957
+39,From Robustness to Privacy and Back,2023-02-03,http://arxiv.org/abs/2302.01855v1,,0.2245025800990718
+40,"Encrypted Operator Computing: a novel scheme for computation on
+  encrypted data",2022-03-16,http://arxiv.org/abs/2203.08876v2,,0.22369066146927363
+41,"When the Metaverse Meets Carbon Neutrality: Ongoing Efforts and
+  Directions",2023-01-18,http://arxiv.org/abs/2301.10235v1,,0.22361829159834717
+42,"Comparative evaluation of different methods of ""Homomorphic Encryption""
+  and ""Traditional Encryption"" on a dataset with current problems and
+  developments",2022-11-18,http://arxiv.org/abs/2211.10028v1,,0.22301462890036713
+43,Categorical composable cryptography: extended version,2022-08-28,http://arxiv.org/abs/2208.13232v1,,0.2223367854984468
+44,The Capacity of 3 User Linear Computation Broadcast,2022-06-20,http://arxiv.org/abs/2206.10049v2,,0.22219893608107238
+45,"CryptoLight: An Electro-Optical Accelerator for Fully Homomorphic
+  Encryption",2022-11-24,http://arxiv.org/abs/2211.13780v2,,0.22121509829147715
+46,The Importance of (Exponentially More) Computing Power,2022-06-28,http://arxiv.org/abs/2206.14007v1,,0.22120468498072765
+47,Three principles of quantum computing,2022-06-24,http://arxiv.org/abs/2206.13221v1,"Quantum Information and Computation, 2022, Vol.22 No.15&16",0.22039980168406226
+48,"50 Years of Computational Complexity: Hao Wang and the Theory of
+  Computation",2022-06-12,http://arxiv.org/abs/2206.05274v1,,0.21974995651509577
+49,"RISE: RISC-V SoC for En/decryption Acceleration on the Edge for
+  Homomorphic Encryption",2023-02-14,http://arxiv.org/abs/2302.07104v1,,0.21847338368155017
+50,"Split HE: Fast Secure Inference Combining Split Learning and Homomorphic
+  Encryption",2022-02-27,http://arxiv.org/abs/2202.13351v1,"PPAI'22: Proceedings of the Third AAAI Workshop on
+  Privacy-Preserving Artificial Intelligence 2022",0.21761331713228071
+51,"1st ICLR International Workshop on Privacy, Accountability,
+  Interpretability, Robustness, Reasoning on Structured Data (PAIR^2Struct)",2022-10-07,http://arxiv.org/abs/2210.03612v1,,0.21656329983299094
+52,"Lattices, Homomorphic Encryption, and CKKS",2022-05-07,http://arxiv.org/abs/2205.03511v1,,0.2160403609918647
+53,"A New Symmetric Homomorphic Functional Encryption over a Hidden Ring for
+  Polynomial Public Key Encapsulations",2023-01-27,http://arxiv.org/abs/2301.11995v1,,0.21560933465896592
+54,Homomorphic Hashing Based on Elliptic Curve Cryptography,2023-02-07,http://arxiv.org/abs/2302.03290v3,,0.21524125363353702
+55,"THE-X: Privacy-Preserving Transformer Inference with Homomorphic
+  Encryption",2022-06-01,http://arxiv.org/abs/2206.00216v2,,0.21430165677181798
+56,"De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage
+  Detection in Time-lapse Seismic Monitoring Images",2022-12-16,http://arxiv.org/abs/2212.08596v1,,0.21424121896563803
+57,"A Tutorial Introduction to Lattice-based Cryptography and Homomorphic
+  Encryption",2022-08-17,http://arxiv.org/abs/2208.08125v2,,0.21392206767930338
+58,MPClan: Protocol Suite for Privacy-Conscious Computations,2022-06-24,http://arxiv.org/abs/2206.12224v1,,0.21354763388657927
+59,"From the Hardness of Detecting Superpositions to Cryptography: Quantum
+  Public Key Encryption and Commitments",2022-10-12,http://arxiv.org/abs/2210.05978v1,,0.2126623865838389
+60,Computer Science,2022-07-16,http://arxiv.org/abs/2207.07901v1,"International Journal on Advanced Science Engineering Information
+  Technology, 12(3), 2022",0.21254529074336803
+61,"DECO2 An Open-source Energy System Decarbonisation Planning Software
+  Including Negative Emissions Technologies",2022-12-08,http://arxiv.org/abs/2212.04372v1,,0.21216001524927228
+62,"Oblivious Online Monitoring for Safety LTL Specification via Fully
+  Homomorphic Encryption",2022-06-03,http://arxiv.org/abs/2206.03582v1,,0.21203307994573184
+63,Bitcoin's Latency--Security Analysis Made Simple,2022-03-12,http://arxiv.org/abs/2203.06357v3,,0.21166182068783573
+64,"Eco2AI: carbon emissions tracking of machine learning models as the
+  first step towards sustainable AI",2022-07-31,http://arxiv.org/abs/2208.00406v2,,0.21132587175397105
+65,FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption,2022-11-24,http://arxiv.org/abs/2211.13696v2,,0.21050514247541094
+66,Cyber security and the Leviathan,2022-03-10,http://arxiv.org/abs/2203.05256v1,,0.21045107856264747
+67,"Granular Compensation, Information, and Carbon Pricing Promote DER
+  Deployment",2022-09-05,http://arxiv.org/abs/2209.02138v1,,0.2100866276801699
+68,"The Carbon Footprint of Machine Learning Training Will Plateau, Then
+  Shrink",2022-04-11,http://arxiv.org/abs/2204.05149v1,,0.21006179389667556
+69,NumS: Scalable Array Programming for the Cloud,2022-06-28,http://arxiv.org/abs/2206.14276v2,,0.20952537866998389
+70,Towards Provably Secure Encrypted Control Using Homomorphic Encryption,2022-10-17,http://arxiv.org/abs/2210.08849v1,,0.2089516349548794
+71,"Privacy-Preserving Credit Card Fraud Detection using Homomorphic
+  Encryption",2022-11-12,http://arxiv.org/abs/2211.06675v1,,0.20863242323822123
+72,Homomorphic Self-Supervised Learning,2022-11-15,http://arxiv.org/abs/2211.08282v1,,0.20792415297377365
+73,"Understanding Information Disclosure from Secure Computation Output: A
+  Study of Average Salary Computation",2022-09-21,http://arxiv.org/abs/2209.10457v1,,0.20765624374275118
+74,Heal the Privacy: Functional Encryption and Privacy-Preserving Analytics,2022-05-06,http://arxiv.org/abs/2205.03083v1,,0.20764628779562377
+75,An Efficient Modular Exponentiation Proof Scheme,2022-09-16,http://arxiv.org/abs/2209.15623v2,,0.20706648009479156
+76,"Reducing Datacenter Operational Carbon Emissions Effectively by
+  Cooperating with the Grid",2023-01-09,http://arxiv.org/abs/2301.03148v1,,0.20664544821748562
+77,Key Agreement and Oblivious Transfer from Free-Energy Limitations,2022-06-03,http://arxiv.org/abs/2206.01501v1,,0.20519766278920504
+78,Packing Privacy Budget Efficiently,2022-12-26,http://arxiv.org/abs/2212.13228v1,,0.2050133902289491
+79,"Bicoptor: Two-round Secure Three-party Non-linear Computation without
+  Preprocessing for Privacy-preserving Machine Learning",2022-10-05,http://arxiv.org/abs/2210.01988v1,,0.20427898539915676
+80,BYOD Security: A Study of Human Dimensions,2022-02-23,http://arxiv.org/abs/2202.11498v1,"Informatics, MDPI, 2022, 9(1), 16;",0.20328713917380398
+81,Compute- and Data-Intensive Networks: The Key to the Metaverse,2022-04-05,http://arxiv.org/abs/2204.02001v2,,0.20323814958941375
+82,"An Energy and Carbon Footprint Analysis of Distributed and Federated
+  Learning",2022-06-21,http://arxiv.org/abs/2206.10380v1,"IEEE Transactions on Green Communications and Networking, 2022",0.20298875812961192
+83,"Proceedings of the Thirteenth International Workshop on Graph
+  Computation Models",2022-12-21,http://arxiv.org/abs/2212.10975v1,"EPTCS 374, 2022",0.20286470752520291
+84,Cohere: Privacy Management in Large Scale Systems,2023-01-20,http://arxiv.org/abs/2301.08517v1,,0.20263623375231354
+85,"BliMe: Verifiably Secure Outsourced Computation with Hardware-Enforced
+  Taint Tracking",2022-04-20,http://arxiv.org/abs/2204.09649v5,,0.20240367269264234
+86,TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU,2022-12-29,http://arxiv.org/abs/2212.14191v1,,0.20230855216241728
+87,SoK: Machine Learning with Confidential Computing,2022-08-22,http://arxiv.org/abs/2208.10134v1,,0.20206459233293106
+88,Omnigrok: Grokking Beyond Algorithmic Data,2022-10-03,http://arxiv.org/abs/2210.01117v1,,0.20178133368925844
+89,"Web3: A Decentralized Societal Infrastructure for Identity, Trust,
+  Money, and Data",2022-03-01,http://arxiv.org/abs/2203.00398v2,,0.20072365351492283
+90,"Computer Science for Future -- Sustainability and Climate Protection in
+  the Computer Science Courses of the HAW Hamburg",2023-01-17,http://arxiv.org/abs/2301.06885v1,,0.20032194486585747
+91,"Secure Summation: Capacity Region, Groupwise Key, and Feasibility",2022-05-17,http://arxiv.org/abs/2205.08458v1,,0.19902257918157099
+92,Grokking modular arithmetic,2023-01-06,http://arxiv.org/abs/2301.02679v1,,0.1986234879203977
+93,"Distributed Hardware Accelerated Secure Joint Computation on the COPA
+  Framework",2022-04-11,http://arxiv.org/abs/2204.04816v1,,0.19838545964423665
+94,"The security of the Coordicide: the implementation and analysis of
+  possible attack vectors",2022-05-25,http://arxiv.org/abs/2205.12568v1,,0.19837225446214996
+95,"Silicon-proven ASIC design for the Polynomial Operations of Fully
+  Homomorphic Encryption",2022-04-19,http://arxiv.org/abs/2204.08742v2,,0.19831690598840965
+96,Sustainable Computing -- Without the Hot Air,2022-06-30,http://arxiv.org/abs/2207.00081v1,,0.1981076830953095
+97,DCarbonX Decentralised Application: Carbon Market Case Study,2022-03-17,http://arxiv.org/abs/2203.09508v1,,0.19806913144883015
+98,Content-based Graph Privacy Advisor,2022-10-20,http://arxiv.org/abs/2210.11169v2,,0.19793648855199952
+99,"Over-the-Air Computation: Foundations, Technologies, and Applications",2022-10-19,http://arxiv.org/abs/2210.10524v1,,0.19770557303695463
