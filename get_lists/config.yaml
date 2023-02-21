@@ -2,12 +2,12 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        carbon footprint: 5
-        scope3: 5
-        co2 emission: 4
-        secure computation: 4
-        homomorphic encryption: 4
-        database: 1
+        carbon footprint: 8
+        scope3: 8
+        co2 emission: 8
+        secure computation: 2
+        homomorphic encryption: 1
+        database: 3
 
 
 # 出力する論文数

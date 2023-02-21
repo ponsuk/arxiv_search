@@ -11,9 +11,9 @@ def get_config() -> dict:
         config = yaml.load(yml, Loader=yaml.Loader)
     return config
 
-def calc_score(model, title, keywords_embeddings):
-    title_embeddings = model.encode(title)
-    score = np.dot(title_embeddings, keywords_embeddings)
+def calc_score(model, summary, keywords_embeddings):
+    summary_embeddings = model.encode(summary)
+    score = np.dot(summary_embeddings, keywords_embeddings)
 
     if np.isnan(score):
         return -1
@@ -56,13 +56,13 @@ def main(model):
         print(day_target_str)
         cnt = 0
         for article in articles:
-            score = calc_score(model, article['title'], keywords_embeddings)
-            output.append([article['title'], day_target.strftime('%Y-%m-%d'), article['arxiv_url'], article['journal_reference'], score])
+            score = calc_score(model, article['summary'], keywords_embeddings)
+            output.append([article['title'], article['summary'], day_target.strftime('%Y-%m-%d'), article['arxiv_url'], article['journal_reference'], score])
             cnt += 1
         print(f'{cnt}件ヒット')
 
         if i % 10 == 0:
-            df_output_tmp = pd.DataFrame(output, columns=['title', 'published_date', 'url', 'journal_reference', 'score'])
+            df_output_tmp = pd.DataFrame(output, columns=['title', 'summary', 'published_date', 'url', 'journal_reference', 'score'])
             df_output = pd.concat([df_output, df_output_tmp])
             df_output = df_output.sort_values(by='score', ascending=False).reset_index(drop=True)
             df_output = df_output.iloc[:num_papers]
@@ -71,7 +71,7 @@ def main(model):
             print('reset')
             print('----')
         elif i == go_back_date+1:
-            df_output_tmp = pd.DataFrame(output, columns=['title', 'published_date', 'url', 'journal_reference', 'score'])
+            df_output_tmp = pd.DataFrame(output, columns=['title', 'summary', 'published_date', 'url', 'journal_reference', 'score'])
             df_output = pd.concat([df_output, df_output_tmp])
     df_output = df_output.sort_values(by='score', ascending=False).reset_index(drop=True)
     df_output.iloc[:num_papers].to_csv('result.csv')
