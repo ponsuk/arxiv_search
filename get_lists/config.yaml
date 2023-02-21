@@ -2,12 +2,13 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        carbon footprint: 8
-        scope3: 8
-        co2 emission: 8
-        secure computation: 2
-        homomorphic encryption: 1
+        agriculture: 7
+        agritech: 7
+        green house: 8
+        environment sensors: 5
+        remote sensing: 5
         database: 3
+        machine learning: 3
 
 
 # 出力する論文数
