@@ -8,7 +8,7 @@ subject: 'cat:cs.*'
 ```
 `cat:cs.*`でcomputer science全般、<br>
 さらにComputer Visionに絞るなどの場合は`subject: 'cat:cs.CV'`などとする。<br>
-categoryはhttps://arxiv.org/category_taxonomyを参照。<br>
+categoryはhttps://arxiv.org/category_taxonomy を参照。<br>
 
 ### keyword
 検索したいkeywordを指定できる。<br>
